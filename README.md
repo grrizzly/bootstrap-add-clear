@@ -19,6 +19,12 @@ Install with [Bower](http://bower.io/):
 bower install bootstrap-add-clear
 ```
 
+#### NPM
+Install with [NPM](http://npmjs.org):
+```bash
+npm install bootstrap-add-clear
+```
+
 #### Github
 Clone the [boostrap-add-clear repository](https://github.com/gesquive/bootstrap-add-clear/):
 ```bash
